@@ -7,10 +7,11 @@
   "dependencies": {
     "@emotion/core": "^10.0.27",
     "@emotion/styled": "^10.0.27",
+    "@tailwindcss/typography": "^0.2.0",
     "autoprefixer": "^9.7.3",
     "axios": "^0.19.2",
     "formik": "^2.1.4",
-    "gatsby": "^2.18.12",
+    "gatsby": "^2.24.63",
     "gatsby-background-image": "^0.9.12",
     "gatsby-image": "^2.2.34",
     "gatsby-plugin-emotion": "^4.1.18",
@@ -42,7 +43,7 @@
     "resize-observer-polyfill": "^1.5.1",
     "slick-carousel": "^1.8.1",
     "tailwind.macro": "^1.0.0-alpha.10",
-    "tailwindcss": "^1.1.4",
+    "tailwindcss": "^1.8.10",
     "yup": "^0.28.3"
   },
   "keywords": [

@@ -1,7 +1,4 @@
 /* custom-components */
-.container {
-  @apply mx-auto;
-}
 
 .row {
   @apply flex flex-wrap -mx-4;
